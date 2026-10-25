@@ -1,0 +1,25 @@
+{
+  "record_date": "2026-09-27",
+  "created_at": "2026-09-27_191926",
+  "talk_count": 0,
+  "impression": "今日は、時差ぼけもかなり楽になってきました。朝は昨日買った残りのパンと、ツナの缶詰を食べました。今日は慣れない生活では日本でやっていた習慣を復活させると自分のメンタルが安定しやすいと思い、ゲーム作りと筋トレを朝進めていました。昼にはいつものWelbeesのスーパーマーケットでぶどうを買って食べました。明日は、承認されたVisaをパスポートに張ってもらいにCentral Visa Unit Head Officeというところに訪れることと、マルタへの到着日が遅れて参加できなかったWelcome talkに参加する予定です。",
+  "todos": [
+    {
+      "text": "test",
+      "done": false
+    },
+    {
+      "text": "Visa受け取り",
+      "done": false
+    }
+  ],
+  "problem_actions": [
+    {
+      "problem": "ドライヤーを買わなければいけない",
+      "action": "Campus hub maltaのreceptionにメールを送り、オンライン配送を預かってもらえるか質問した。\nklikk maltaというamazonのマルタ版のようなサイトを利用した。",
+      "media_files": [
+        "Screenshot 2026-09-27 193004.png"
+      ]
+    }
+  ]
+}
